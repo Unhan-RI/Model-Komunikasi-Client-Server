@@ -1,4 +1,4 @@
-<h3>Anggota Kelompok</h3>
+<h3><i>Anggota Kelompok</i></h3>
 <strong>Muhammad Iqbal Setyawan (320220401017)</strong><br>
 <strong>Zerusealtin David Naibaho (320220401025)</strong>
 <br>

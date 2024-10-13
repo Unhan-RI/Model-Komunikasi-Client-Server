@@ -39,3 +39,477 @@
 2024-10-13 13:33:06.295071 - Connection from ('127.0.0.1', 50443) forwarded to backend 127.0.0.1:8002
 2024-10-13 13:33:06.295071 - Connection from ('127.0.0.1', 50445) forwarded to backend 127.0.0.1:8003
 2024-10-13 13:33:06.295071 - Connection from ('127.0.0.1', 50447) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:18:39.465543 - Load Balancer started on port 12345...
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49386) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49387) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49388) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49389) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49390) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49391) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49394) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49395) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49397) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49398) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:53.587359 - Connection from ('127.0.0.1', 49400) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:19:53.602957 - Connection from ('127.0.0.1', 49401) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:19:53.603315 - Connection from ('127.0.0.1', 49403) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:53.603315 - Connection from ('127.0.0.1', 49406) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:19:53.604319 - Connection from ('127.0.0.1', 49408) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:19:53.604319 - Connection from ('127.0.0.1', 49413) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:53.604319 - Connection from ('127.0.0.1', 49419) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:19:53.604319 - Connection from ('127.0.0.1', 49420) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:19:53.604319 - Connection from ('127.0.0.1', 49421) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:19:54.103813 - Connection from ('127.0.0.1', 49409) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:28:19.352357 - Load Balancer started on port 12345...
+2024-10-13 21:28:56.673972 - Load Balancer started on port 12345...
+2024-10-13 21:29:02.882349 - Connection from ('127.0.0.1', 49546) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49547) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49548) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49549) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49550) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49553) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49554) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49555) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49558) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49559) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49561) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49563) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49565) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49569) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49570) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49566) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49574) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49571) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Connection from ('127.0.0.1', 49575) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:02.897963 - Error forwarding to backend: float division by zero
+2024-10-13 21:29:03.414198 - Connection from ('127.0.0.1', 49577) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:29:03.414198 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.051715 - Connection from ('127.0.0.1', 49648) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.051715 - Connection from ('127.0.0.1', 49649) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.051715 - Connection from ('127.0.0.1', 49650) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:33:10.051715 - Connection from ('127.0.0.1', 49651) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.051715 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.051715 - Connection from ('127.0.0.1', 49652) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.051715 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.051715 - Connection from ('127.0.0.1', 49655) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:33:10.066116 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.066116 - Connection from ('127.0.0.1', 49656) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.066116 - Client ('127.0.0.1', 49651) - RTT: 0.014401s, Latency: 0.000000s, Throughput: 3888.62 bytes/sec
+2024-10-13 21:33:10.066116 - Connection from ('127.0.0.1', 49658) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.066116 - Connection from ('127.0.0.1', 49659) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:33:10.067123 - Client ('127.0.0.1', 49652) - RTT: 0.014401s, Latency: 0.014401s, Throughput: 3888.62 bytes/sec
+2024-10-13 21:33:10.067210 - Client ('127.0.0.1', 49655) - RTT: 0.001094s, Latency: 0.000000s, Throughput: 51188.30 bytes/sec
+2024-10-13 21:33:10.067210 - Connection from ('127.0.0.1', 49662) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.067210 - Connection from ('127.0.0.1', 49671) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.067210 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Client ('127.0.0.1', 49658) - RTT: 0.000087s, Latency: 0.000087s, Throughput: 643678.16 bytes/sec
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49674) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49676) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49677) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49679) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49680) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49682) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49683) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49686) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Connection from ('127.0.0.1', 49687) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:33:10.068215 - Error forwarding to backend: float division by zero
+2024-10-13 21:35:16.963472 - Load Balancer started on port 12345...
+2024-10-13 21:35:35.666269 - Connection from ('127.0.0.1', 49728) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:35:35.666269 - Connection from ('127.0.0.1', 49727) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:35:35.666269 - Connection from ('127.0.0.1', 49730) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:35:35.666269 - Connection from ('127.0.0.1', 49729) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:35:35.666269 - Connection from ('127.0.0.1', 49731) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:35:35.666269 - Client ('127.0.0.1', 49728) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:35:35.666269 - Client ('127.0.0.1', 49727) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:35:35.666269 - Client ('127.0.0.1', 49730) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:35:35.666269 - Client ('127.0.0.1', 49729) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:35:35.666269 - Client ('127.0.0.1', 49731) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:05.777218 - Connection from ('127.0.0.1', 49741) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:36:05.777218 - Connection from ('127.0.0.1', 49743) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:36:05.777218 - Connection from ('127.0.0.1', 49744) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:36:05.777218 - Connection from ('127.0.0.1', 49745) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:36:05.777218 - Connection from ('127.0.0.1', 49746) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:36:05.777218 - Client ('127.0.0.1', 49741) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:05.777218 - Client ('127.0.0.1', 49743) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:05.777218 - Client ('127.0.0.1', 49744) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:05.777218 - Client ('127.0.0.1', 49745) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:05.777218 - Client ('127.0.0.1', 49746) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:16.968284 - 
+--- SUMMARY ---
+Total Requests: 10
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:36:40.231111 - Connection from ('127.0.0.1', 49759) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:36:40.231111 - Connection from ('127.0.0.1', 49760) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:36:40.231111 - Connection from ('127.0.0.1', 49761) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:36:40.231111 - Connection from ('127.0.0.1', 49762) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:36:40.231111 - Connection from ('127.0.0.1', 49764) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:36:40.231111 - Client ('127.0.0.1', 49759) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:40.231111 - Client ('127.0.0.1', 49761) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:40.231111 - Client ('127.0.0.1', 49760) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:40.231111 - Client ('127.0.0.1', 49762) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:36:40.231111 - Client ('127.0.0.1', 49764) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:37:16.970406 - 
+--- SUMMARY ---
+Total Requests: 15
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:38:07.348358 - Load Balancer started on port 12345...
+2024-10-13 21:38:34.226466 - Connection from ('127.0.0.1', 49781) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:38:34.226466 - Connection from ('127.0.0.1', 49782) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:38:34.226466 - Connection from ('127.0.0.1', 49783) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:38:34.242076 - Connection from ('127.0.0.1', 49784) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:38:34.242076 - Client ('127.0.0.1', 49781) - RTT: 0.015610s, Latency: 0.000000s, Throughput: 3587.44 bytes/sec
+2024-10-13 21:38:34.242076 - Connection from ('127.0.0.1', 49785) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:38:34.242076 - Client ('127.0.0.1', 49782) - RTT: 0.015610s, Latency: 0.000000s, Throughput: 3587.44 bytes/sec
+2024-10-13 21:38:34.242076 - Client ('127.0.0.1', 49783) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:38:34.242076 - Client ('127.0.0.1', 49784) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:38:34.242076 - Client ('127.0.0.1', 49785) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:39:07.361321 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.006244s
+Average Latency: 0.000000s
+Average Throughput: 1434.98 bytes/sec
+
+2024-10-13 21:40:07.363632 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.006244s
+Average Latency: 0.000000s
+Average Throughput: 1434.98 bytes/sec
+
+2024-10-13 21:41:39.356319 - Load Balancer started on port 12345...
+2024-10-13 21:41:43.975829 - Connection from ('127.0.0.1', 49832) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:41:43.976827 - Connection from ('127.0.0.1', 49833) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:41:43.976827 - Connection from ('127.0.0.1', 49835) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:41:43.976827 - Connection from ('127.0.0.1', 49836) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:41:43.976827 - Connection from ('127.0.0.1', 49839) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:41:43.977827 - Client ('127.0.0.1', 49833) - RTT: 0.001000s, Latency: 0.000000s, Throughput: 56000.00 bytes/sec
+2024-10-13 21:41:43.977827 - Client ('127.0.0.1', 49832) - RTT: 0.001000s, Latency: 0.000000s, Throughput: 56000.00 bytes/sec
+2024-10-13 21:41:43.977827 - Connection from ('127.0.0.1', 49840) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:41:43.978830 - Connection from ('127.0.0.1', 49841) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:41:43.978830 - Connection from ('127.0.0.1', 49842) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:41:43.978830 - Client ('127.0.0.1', 49839) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:41:43.978830 - Client ('127.0.0.1', 49835) - RTT: 0.002003s, Latency: 0.000000s, Throughput: 27958.06 bytes/sec
+2024-10-13 21:41:43.978830 - Client ('127.0.0.1', 49836) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:41:43.978830 - Connection from ('127.0.0.1', 49846) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:41:43.979827 - Client ('127.0.0.1', 49840) - RTT: 0.001003s, Latency: 0.000000s, Throughput: 55832.50 bytes/sec
+2024-10-13 21:41:43.979827 - Connection from ('127.0.0.1', 49847) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:41:43.979827 - Client ('127.0.0.1', 49841) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:41:43.979827 - Client ('127.0.0.1', 49842) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:41:43.979827 - Client ('127.0.0.1', 49846) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:41:43.980827 - Client ('127.0.0.1', 49847) - RTT: 0.001000s, Latency: 0.000000s, Throughput: 56000.00 bytes/sec
+2024-10-13 21:42:39.356909 - 
+--- SUMMARY ---
+Total Requests: 10
+Average RTT: 0.000601s
+Average Latency: 0.000000s
+Average Throughput: 25179.06 bytes/sec
+
+2024-10-13 21:43:33.905392 - Load Balancer started on port 12345...
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49877) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49878) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49879) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49880) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49882) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49878) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49877) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49883) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49885) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49887) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49880) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49879) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49882) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49889) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49890) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49883) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49885) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49891) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49887) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49889) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49890) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49893) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49896) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49899) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49901) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49891) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49893) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49903) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49904) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49906) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49899) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49896) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49901) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49907) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49904) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49903) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49906) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Connection from ('127.0.0.1', 49909) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49907) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:43:43.418868 - Client ('127.0.0.1', 49909) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:44:33.905818 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:45:33.906372 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:46:33.908450 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:47:04.930376 - Load Balancer started on port 12345...
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49952) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49951) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49953) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49955) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49952) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49956) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49951) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49953) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49959) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49955) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49960) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49956) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49962) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49964) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49963) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49967) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49959) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49968) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49960) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49970) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49962) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49964) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49967) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49973) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49963) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49968) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49976) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49970) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49975) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49973) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49979) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49981) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49983) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:47:10.030796 - Connection from ('127.0.0.1', 49982) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49976) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49975) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49981) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49979) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49983) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:47:10.030796 - Client ('127.0.0.1', 49982) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:48:04.932573 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:49:04.933786 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:49:40.318729 - Connection from ('127.0.0.1', 50071) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:49:40.318729 - Connection from ('127.0.0.1', 50070) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:49:40.318729 - Connection from ('127.0.0.1', 50072) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:49:40.318729 - Connection from ('127.0.0.1', 50073) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:49:40.318729 - Client ('127.0.0.1', 50071) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:49:40.318729 - Connection from ('127.0.0.1', 50075) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:49:40.318729 - Client ('127.0.0.1', 50070) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:49:40.318729 - Client ('127.0.0.1', 50072) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:49:40.318729 - Client ('127.0.0.1', 50073) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:49:40.318729 - Client ('127.0.0.1', 50075) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:50:04.935538 - 
+--- SUMMARY ---
+Total Requests: 25
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:51:04.936169 - 
+--- SUMMARY ---
+Total Requests: 25
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:52:04.937134 - 
+--- SUMMARY ---
+Total Requests: 25
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:53:02.503934 - Load Balancer started on port 12345...
+2024-10-13 21:53:07.373266 - Connection from ('127.0.0.1', 50133) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:53:07.374264 - Connection from ('127.0.0.1', 50134) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:53:07.374264 - Connection from ('127.0.0.1', 50135) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:53:07.375264 - Connection from ('127.0.0.1', 50136) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:53:07.375264 - Client ('127.0.0.1', 50133) - RTT: 0.001000s, Latency: 0.000000s, Throughput: 56000.00 bytes/sec
+2024-10-13 21:53:07.375264 - Connection from ('127.0.0.1', 50137) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:53:07.375264 - Client ('127.0.0.1', 50134) - RTT: 0.001000s, Latency: 0.000000s, Throughput: 56000.00 bytes/sec
+2024-10-13 21:53:07.375264 - Client ('127.0.0.1', 50135) - RTT: 0.001000s, Latency: 0.000000s, Throughput: 56000.00 bytes/sec
+2024-10-13 21:53:07.375264 - Client ('127.0.0.1', 50136) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:53:07.376270 - Client ('127.0.0.1', 50137) - RTT: 0.001006s, Latency: 0.000000s, Throughput: 55666.00 bytes/sec
+2024-10-13 21:54:02.503922 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000801s
+Average Latency: 0.000000s
+Average Throughput: 44733.20 bytes/sec
+
+2024-10-13 21:54:21.435115 - Load Balancer started on port 12345...
+2024-10-13 21:54:35.315260 - Connection from ('127.0.0.1', 50189) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.315260 - Connection from ('127.0.0.1', 50190) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.315260 - Connection from ('127.0.0.1', 50191) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50189) - RTT: 0.015623s, Latency: 0.000000s, Throughput: 3584.46 bytes/sec
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50194) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50192) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50196) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50191) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50198) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50200) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50190) - RTT: 0.015623s, Latency: 0.015623s, Throughput: 3584.46 bytes/sec
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50202) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50196) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50192) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50194) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50205) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50198) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50200) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50207) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50209) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50202) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50210) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50205) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50212) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50213) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50210) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50209) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50207) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50215) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50213) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50212) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50216) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50220) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50224) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:54:35.330883 - Connection from ('127.0.0.1', 50223) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50215) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50216) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50220) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50224) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:54:35.330883 - Client ('127.0.0.1', 50223) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:55:21.434931 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.001562s
+Average Latency: 0.000781s
+Average Throughput: 358.45 bytes/sec
+
+2024-10-13 21:56:21.435709 - 
+--- SUMMARY ---
+Total Requests: 20
+Average RTT: 0.001562s
+Average Latency: 0.000781s
+Average Throughput: 358.45 bytes/sec
+
+2024-10-13 21:57:38.662464 - Load Balancer started on port 12345...
+2024-10-13 21:57:46.328829 - Connection from ('127.0.0.1', 50256) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:57:46.328829 - Connection from ('127.0.0.1', 50258) forwarded to backend 127.0.0.1:8003
+2024-10-13 21:57:46.328829 - Connection from ('127.0.0.1', 50257) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:57:46.328829 - Connection from ('127.0.0.1', 50259) forwarded to backend 127.0.0.1:8001
+2024-10-13 21:57:46.328829 - Connection from ('127.0.0.1', 50260) forwarded to backend 127.0.0.1:8002
+2024-10-13 21:57:46.328829 - Client ('127.0.0.1', 50256) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:57:46.328829 - Client ('127.0.0.1', 50258) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:57:46.328829 - Client ('127.0.0.1', 50257) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:57:46.328829 - Client ('127.0.0.1', 50259) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:57:46.328829 - Client ('127.0.0.1', 50260) - RTT: 0.000000s, Latency: 0.000000s
+2024-10-13 21:58:38.665223 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 21:59:38.667520 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 22:00:38.669467 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 22:01:38.671504 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 22:02:38.673623 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
+2024-10-13 22:03:38.674828 - 
+--- SUMMARY ---
+Total Requests: 5
+Average RTT: 0.000000s
+Average Latency: 0.000000s
+Average Throughput: 0.00 bytes/sec
+
